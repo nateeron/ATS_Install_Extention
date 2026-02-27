@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "textTh": "เตรียมไฟล์ติดตั้ง Download จาก https://xxxxxxxxxxxx",
+    "textEn": "Prepare the installer file. Download it from https://xxxxxxxxxxxx",
+    "image": "image/2026-02-27_15-50-27.png"
+  },
+  {
+    "id": 2,
+    "textTh": "ไปที่ Chrome เปิดหน้า Extension และเปิด Developer mode",
+    "textEn": "In Chrome, open the Extensions page and turn on Developer mode.",
+    "image": "image/2026-02-27_15-50-58.png"
+  },
+  {
+    "id": 3,
+    "textTh": "หลังจากเปิด Developer mode แล้ว ให้สร้างไฟล์ .crx โดยคลิกที่ Pack extension และเลือกโฟลเดอร์ที่เก็บโค้ด .js",
+    "textEn": "After Developer mode is enabled, create the .crx file by clicking Pack extension and selecting the folder that contains the .js code.",
+    "image": "image/2026-02-27_15-51-10.png"
+  },
+  {
+    "id": 4,
+    "textTh": "เลือกที่อยู่โฟลเดอร์โค้ด แล้วคลิก Pack extension",
+    "textEn": "Select the code folder path and click Pack extension.",
+    "image": "image/2026-02-27_15-52-05.png"
+  },
+  {
+    "id": 5,
+    "textTh": "กด OK จะได้ไฟล์ .crx ตัวใหม่",
+    "textEn": "Click OK and a new .crx file will be created.",
+    "image": "image/2026-02-27_15-52-39.png"
+  },
+  {
+    "id": 6,
+    "textTh": "ตรวจสอบว่าได้ไฟล์ .crx เรียบร้อยแล้ว",
+    "textEn": "Verify that the .crx file has been created.",
+    "image": "image/2026-02-27_15-52-51.png"
+  },
+  {
+    "id": 7,
+    "textTh": "ติดตั้ง Extension จากไฟล์ .crx ที่สร้างขึ้น โดยลากไฟล์ไปวางบนหน้า Extensions ใน Chrome",
+    "textEn": "Install the extension from the .crx file by dragging it onto the Chrome Extensions page.",
+    "image": "image/2026-02-27_15-53-31.png"
+  },
+  {
+    "id": 8,
+    "textTh": "คลิกที่ Add extension เพื่อยืนยันการติดตั้ง",
+    "textEn": "Click Add extension to confirm the installation.",
+    "image": "image/2026-02-27_15-54-01.png"
+  },
+  {
+    "id": 9,
+    "textTh": "หลังจากติดตั้งแล้ว จะเห็น Extension ตัวใหม่ แต่ยังใช้งานไม่ได้ ต้อง Enable ก่อนด้วยโปรแกรม AddExtentionRegeditV.3.exe",
+    "textEn": "After installation, the new extension appears but is not enabled yet. You must enable it using the AddExtentionRegeditV.3.exe program.",
+    "image": "image/2026-02-27_15-54-19.png"
+  },
+  {
+    "id": 10,
+    "textTh": "เปิด AddExtentionRegeditV.3.exe โดยใช้สิทธิ์ Administrator",
+    "textEn": "Run AddExtentionRegeditV.3.exe with Administrator privileges.",
+    "image": "image/2026-02-27_15-55-11.png"
+  },
+  {
+    "id": 11,
+    "textTh": "เลือก Option 1: Chrome แล้วกด Enter",
+    "textEn": "Select option 1: Chrome and press Enter.",
+    "image": "image/2026-02-27_15-55-43.png"
+  },
+  {
+    "id": 12,
+    "textTh": "ใส่ Extension ID ของตัวที่ติดตั้งใหม่ แล้วกด Enter",
+    "textEn": "Enter the Extension ID of the newly installed extension and press Enter.",
+    "image": "image/2026-02-27_15-56-10.png"
+  },
+  {
+    "id": 13,
+    "textTh": "โปรแกรมจะให้ Set path ของ Extension ให้กด Enter \nและเลือก Option 1: Enable แล้วกด Enter",
+    "textEn": "The program will ask you to set the extension path, press Enter, \nthen choose option 1: Enable and press Enter.",
+    "image": "image/2026-02-27_15-56-50.png"
+  },
+  {
+    "id": 14,
+    "textTh": "จะเห็น Extension ตัวใหม่ถูก Enable แล้ว และพร้อมใช้งาน",
+    "textEn": "You should now see the new extension enabled and ready to use.",
+    "image": "image/2026-02-27_15-58-33.png"
+  }
+]
